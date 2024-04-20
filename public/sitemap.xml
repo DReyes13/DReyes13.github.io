@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-19T22:10:17-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/problematica-y-solucion/</loc>
+    <lastmod>2024-04-19T22:10:17-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-19T22:10:17-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/negocios-e-inteligencia-artificial/</loc>
+    <lastmod>2024-04-19T22:04:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/que-es-marketing/</loc>
+    <lastmod>2024-04-19T21:57:12-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2024-04-19T21:13:32-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

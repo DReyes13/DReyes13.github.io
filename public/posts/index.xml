@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Tecnología</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tecnología</description>
+    <generator>Hugo -- 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 22:10:17 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problematica Y Solucion</title>
+      <link>http://localhost:1313/posts/problematica-y-solucion/</link>
+      <pubDate>Fri, 19 Apr 2024 22:10:17 -0600</pubDate>
+      <guid>http://localhost:1313/posts/problematica-y-solucion/</guid>
+      <description>Problemática y Soluciones en Amazon: Bajos Salarios y Rotación de Empleados Problemática: La falta de trabajos en Amazon debido a bajos salarios.
+Durante 2021, Amazon enfrentó serias dificultades para atraer y retener empleados. Esta problemática se agudizó en el comercio electrónico, con algunas divisiones experimentando una pérdida de hasta el 35% de su fuerza laboral.
+Las quejas por los bajos salarios fueron constantes entre los empleados, desde los trabajadores de almacén hasta los directivos.</description>
+    </item>
+    <item>
+      <title>Negocios e Inteligencia </title>
+      <link>http://localhost:1313/posts/negocios-e-inteligencia-artificial/</link>
+      <pubDate>Fri, 19 Apr 2024 22:04:21 -0600</pubDate>
+      <guid>http://localhost:1313/posts/negocios-e-inteligencia-artificial/</guid>
+      <description>El papel de las inteligencias en los negocios Las inteligencias en los negocios, como la inteligencia artificial y el análisis de datos, pueden ayudar a resolver problemáticas en las empresas de diversas formas:
+Toma de decisiones: Las inteligencias en los negocios pueden analizar grandes cantidades de datos en tiempo real y proporcionar información y análisis que respalden la toma de decisiones estratégicas. Esto permite a las empresas tomar decisiones más informadas y basadas en datos, reduciendo así la incertidumbre y minimizando los riesgos.</description>
+    </item>
+    <item>
+      <title>¿Qué es el Marketing?</title>
+      <link>http://localhost:1313/posts/que-es-marketing/</link>
+      <pubDate>Fri, 19 Apr 2024 21:57:12 -0600</pubDate>
+      <guid>http://localhost:1313/posts/que-es-marketing/</guid>
+      <description>¿Qué es el Marketing? El marketing es un proceso empresarial que consiste en implementar técnicas y estrategias para promover e incrementar las ventas, investigar el mercado, detectar necesidades y publicitar los productos y servicios. Se enfoca en conocer a los consumidores y clientes para ofrecerles lo que necesitan y desean, de la manera en que más les gustaría adquirirlo, como estrategia de valor agregado o diferencial respecto a los competidores. Este conjunto de técnicas trata de identificar y anticipar las necesidades del cliente para crear una dinámica de consumo rentable para las empresas.</description>
+    </item>
+    <item>
+      <title>¿Qué son los Negocios?</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 19 Apr 2024 21:13:32 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>¿Qué son los Negocios? El negocio es una operación relacionada con los procesos de producción, distribución y venta de servicios y bienes, con el objetivo de satisfacer las diferentes necesidades de los compradores y beneficiar, a su vez, a los vendedores. Puede ser una actividad, ocupación, sistema o método que tiene como finalidad obtener un beneficio económico (por ejemplo, la compra y venta de ropa); pero también una entidad dedicada a obtener un beneficio económico (por ejemplo, una tienda de ropa).</description>
+    </item>
+  </channel>
+</rss>
